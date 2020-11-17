@@ -1,5 +1,8 @@
 # vuetify-todo
 
+#author
+## Reinaldo S Guth - reiwolf
+
 ## Project setup
 ```
 yarn install
