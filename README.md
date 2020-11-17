@@ -1,7 +1,9 @@
 # vuetify-todo
 
-#author
-## Reinaldo S Guth - reiwolf
+## Author
+```
+Reinaldo S Guth - reiwolf
+```
 
 ## Project setup
 ```
